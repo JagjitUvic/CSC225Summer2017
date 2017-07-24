@@ -3,4 +3,5 @@ My assignments from CSC 225 at the University of Victoria with professor Bill Bi
 
 Grades received:
 Assignment 1 (Aggregation): A+
+
 Assignment 2 (Heaps): A+
